@@ -58,7 +58,7 @@
     "changelogithub": "^14.0.0",
     "eslint": "^10.8.1",
     "knip": "catalog:",
-    "magic-string": "^1.2.0",
+    "magic-string": "^1.2.2",
     "pathe": "^2.0.3",
     "premove": "^4.0.0",
     "rollup": "catalog:",
